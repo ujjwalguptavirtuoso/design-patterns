@@ -1,0 +1,1 @@
+When one object changes state, all of its dependent objects are notified to change their state
